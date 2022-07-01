@@ -1,24 +1,64 @@
-.box{
+.boxStandar{
+    margin-top: 5px;
+    margin-left: 5px;
+    height: 10px; 
     background-color: aqua;
     border: 10px solid black;
-    width: 100px;
-    height: 100px; 
-    margin-top: 50px;
-    margin-left: 50px;
 }
 
-div.bloque1 {
+#div1{
+    background-color: black;
+}
+
+.box1{
+    display: block;
+    width: auto;
+}
+
+.box2{
+    display: inline-block;
+    width: 40%;
+    height: 400px;
+    margin-left: 40px;
+}
+
+.box3{
+    display: inline-block;
+    height: 400px;
+    width: 40%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bloque1 {
     width: 200px;
     margin: 0 auto;
     border: 3px solid;
   }
   
-div.bloque2 {
+.bloque2 {
     width: auto;
     border: 3px solid red;
   }
   
-div.bloque3 {
+.bloque3 {
     width: 700px;
     border: 3px solid red;
     margin: 0 auto;
