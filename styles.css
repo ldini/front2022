@@ -1,3 +1,14 @@
 p{
     color: blue;
 }
+
+.margen{
+    width: 400px;
+    height: 300px;
+    margin: 100px;
+    padding: 200px;
+    border: 10px dashed red;
+    background-color: lightblue;
+  }
+  
+  
