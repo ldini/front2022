@@ -11,4 +11,21 @@ p{
     background-color: lightblue;
   }
   
+  .cabeza{
+    height:100px;
+    background-color: blueviolet;
+  }
+
+  .cuerpo{
+    height: 400px;
+    background-color: aqua;
+  }
+
+  .pie{
+    height: 50px;
+    background-color: blue;
+  }
   
+  .borde{
+    border: 3px solid black;
+  }
